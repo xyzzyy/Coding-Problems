@@ -1,5 +1,8 @@
 // https://leetcode.com/problems/fizz-buzz/submissions/689739994/
 
+import java.util.ArrayList;
+import java.util.List;
+
 class Solution {
     public List<String> fizzBuzz(int n) {
         ArrayList<String> answer = new ArrayList<String>();
